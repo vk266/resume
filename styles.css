@@ -13,3 +13,15 @@ body {
     font-weight: bold;
     color: #86898f;
 }
+
+.card {
+    border-radius: 20px;
+}
+
+.bg-green {
+    background: #e5ffe7;
+}
+
+.bg-yellow {
+    background: #fff9dc;
+}
