@@ -8,16 +8,39 @@ body {
     color: #0f141e;
 }
 
+.container {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 10px;
+}
+
 .info-text p {
     font-style: italic;
     font-weight: bold;
     color: #86898f;
 }
 
-.card {
-    border-radius: 20px;
+.info-text h4 {
+    margin-bottom: 10px;
 }
 
+.avatar {
+    width: 220px;
+    margin-bottom: 10px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+.card {
+    border-radius: 20px;
+    padding: 1px 20px;
+    margin-bottom: 20px;
+}
+.card h2 {
+    margin-bottom: 10px;
+}
+.info {
+    margin-bottom: 20px;
+}
 .bg-green {
     background: #e5ffe7;
 }
