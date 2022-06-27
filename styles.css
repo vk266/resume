@@ -14,6 +14,23 @@ body {
     padding-top: 10px;
 }
 
+a {
+    color: #111;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: blue;
+}
+
+a:visited {
+    color: gray;
+}
+
 .info-text p {
     font-style: italic;
     font-weight: bold;
@@ -34,6 +51,7 @@ body {
     border-radius: 20px;
     padding: 1px 20px;
     margin-bottom: 20px;
+    padding-bottom: 10px;
 }
 .card h2 {
     margin-bottom: 10px;
@@ -51,4 +69,18 @@ body {
 
 .bg-red {
     background: #ffe5e5;
+}
+
+.btn {
+    background: #111;
+    padding: 15px 20px;
+    color: #fff;
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.btn:hover {
+    opacity: 0.8;
 }
