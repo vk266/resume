@@ -84,3 +84,43 @@ a:visited {
 .btn:hover {
     opacity: 0.8;
 }
+
+.form h4 {
+    text-align: center;
+}
+
+.form-group label {
+    display: block;
+    font-size: 14px;
+    color: #86898f;
+}
+
+.form-group input,
+.form-group textarea
+ {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #ccc;
+    padding: 15px 0 10px;
+    outline: none;
+    font-family: inherit;
+
+}
+
+.form-row {
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.form-row .form-group {
+    /* display: inline-block; */
+    margin-right: 20px;
+    width: 50%;
+    /* width: calc(50% - 20px); */
+}
+
+.form-row .form-group:last-child {
+    margin-right: 0;
+}
