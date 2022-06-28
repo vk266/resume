@@ -1,3 +1,3 @@
 # Hello my Git
 
-[Duck Duck Go](https://duckduckgo.com)
+[Моя первая работа на HTML & CSS](https://vk266.github.io/test1/)
