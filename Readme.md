@@ -1,4 +1,4 @@
 # Моё резюме
 ## Ознакомится можно по ссылке ниже ;)
 
-[Моя первая работа на HTML & CSS](https://vk266.github.io/test1/)
+[Моя первая работа на HTML & CSS](https://vk266.github.io/resume/)
